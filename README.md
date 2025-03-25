@@ -1,1 +1,1 @@
-You can try the SenseHAT programs at this online emulator: https://trinket.io/sense-hat
+You can try the SenseHAT programs with this online emulator: https://trinket.io/sense-hat
